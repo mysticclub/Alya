@@ -10,13 +10,13 @@ let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
 
 ᰔᩚ Seishiro Nagi 
 > 🜸 Rol » *Creador*
-> ✧ 
+> ✧ wa.me/51920227615
 
 ❒ *Colaboradores:*
 
 ᰔᩚ Angel
 > 🜸 Rol » *Developer*
-> ✧ 
+> ✧ wa.me/50368471855
 
 ᰔᩚ Niño Piña
 > 🜸 Rol » *Developer*
@@ -24,11 +24,11 @@ let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
 
 ✧ Niki's
 > 🜸 Rol » *Mod*
-> ✧ 
+> ✧ Wa.me/50240447765
 
 ᰔᩚ Alter knight 
 > 🜸 Rol » *mod*
-> ✧ 
+> ✧ Wa.me/50765554540
 
 ᰔᩚ 
 > 🜸 Rol » 
