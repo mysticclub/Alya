@@ -340,9 +340,9 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 > ✦ Elimina un usuario de un grupo.
 ᰔᩚ *#add • #añadir • #agregar* [número]
 > ✦ Invita a un usuario a tu grupo.
-ᰔᩚ *#promote* [mencion / etiquetar]
+ᰔᩚ *#promote* [mención / etiquetar]
 > ✦ El bot dara administrador al usuario mencionando.
-ᰔᩚ *#demote* [mencion / etiquetar]
+ᰔᩚ *#demote* [mención / etiquetar]
 > ✦ El bot quitara administrador al usuario mencionando.
 ᰔᩚ *#gpbanner • #groupimg*
 > ✦ Cambiar la imagen del grupo.
