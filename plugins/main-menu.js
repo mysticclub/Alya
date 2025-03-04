@@ -336,13 +336,13 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 > ✦ Cambia ajustes del grupo para que todos los usuarios envien mensaje.
 ᰔᩚ *#grupo • #gruop* [close / cerrar]
 > ✦ Cambia ajustes del grupo para que solo los administradores envien mensaje.
-ᰔᩚ *#kick* [número / mension]
+ᰔᩚ *#kick* [número / mencion]
 > ✦ Elimina un usuario de un grupo.
 ᰔᩚ *#add • #añadir • #agregar* [número]
 > ✦ Invita a un usuario a tu grupo.
-ᰔᩚ *#promote* [mension / etiquetar]
+ᰔᩚ *#promote* [mencion / etiquetar]
 > ✦ El bot dara administrador al usuario mencionando.
-ᰔᩚ *#demote* [mension / etiquetar]
+ᰔᩚ *#demote* [mencion / etiquetar]
 > ✦ El bot quitara administrador al usuario mencionando.
 ᰔᩚ *#gpbanner • #groupimg*
 > ✦ Cambiar la imagen del grupo.
