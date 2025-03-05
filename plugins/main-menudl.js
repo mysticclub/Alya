@@ -90,7 +90,7 @@ Aquí tienes la lista de comandos
 
 handler.help = ['menu'];
 handler.tags = ['main'];
-handler.command = ['menu', 'menú', 'help'];
+handler.command = ['menudl', 'menúdl', 'menudownload'];
 
 export default handler;
 
