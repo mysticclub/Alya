@@ -65,7 +65,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᰔᩚ *#npmdl • #npmdownloader*
 > ✦ Descarga paquetes de NPMJs.
 ᰔᩚ *#animelinks • #animedl*
-> ✦ Descarga Links disponibles de descargas.'
+> ✦ Descarga Links disponibles de descargas. '
 
 
   await conn.sendMessage(m.chat, { 
