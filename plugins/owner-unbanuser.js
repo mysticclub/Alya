@@ -20,8 +20,8 @@ const handler = async (m, { conn, args, text, usedPrefix, command }) => {
         await conn.reply(m.chat, `${emoji4} El usuario no está registrado.`, m);
     }
 };
-handler.help = ['unbanuser <@tag>'];
-handler.command = ['unbanuser'];
+handler.help = ['unbanuser <@mencion>'];
+handler.command = ['unbanuser','pardon'];
 handler.tags = ['mods'];
 handler.rowner = true;
 
