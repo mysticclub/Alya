@@ -11,7 +11,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
     // VCARD
     let list = [{
         displayName: "Seishiro Nagi",
-        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: Seishiro-Nagi🍭\nitem1.TEL;waid=51920227615:51920227615\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: seishironagi.rukasproyect@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/Mysticlub\nitem3.X-ABLabel:Internet\nitem4.ADR:;; Nicaragua;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
+        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: Seishiro-Nagi🍭\nitem1.TEL;waid=51920227615:51920227615\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: seishironagi.rukasproyect@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/Mysticlub\nitem3.X-ABLabel:Internet\nitem4.ADR:;; Perú;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
     }];
 
     await conn.sendMessage(m.chat, {
@@ -24,7 +24,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
                 showAdAttribution: true,
                 title: 'һ᥆ᥣᥲ s᥆ᥡ Seishiro Nagi ',
                 body: dev,
-                thumbnailUrl: 'https://i.ibb.co/4Zg31Wsc/file.jpg',
+                thumbnailUrl: 'https://qu.ax/EJAkM.jpg',
                 sourceUrl: 'https://github.com/WillZek',
                 mediaType: 1,
                 renderLargerThumbnail: true
