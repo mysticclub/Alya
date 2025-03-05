@@ -55,8 +55,8 @@ global.packname = '⪛✰ ALYA-𝐁𝐨𝐭 ✰⪜'
 global.botname = 'alya-ᑲ᥆𝗍'
 global.wm = 'ৎ୭࠭͢alya-𝐁𝐨𝐭ⷭ𓆪͟͞ '
 global.author = 'Made By Seishiro Nagi 𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⦕⚔MŸŚȚÏĊ ĊĻŮB♰⦕ 𒆜'
-global.textbot = 'alya-Bσƚ • Powered By ⦕⚔MŸŚȚÏĊ ĊĻŮB♰⦕'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
+global.textbot = 'alya-Bσƚ • Powered By ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
 global.etiqueta = 'seishiro nagi'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
