@@ -31,7 +31,7 @@ console.log(`Error : ${e}`)
 global.creador = 'Wa.me/51920227615'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/51920227615'
-global.namechannel = 'MɎSŦƗȻ ȻŁᵾɃ'
+global.namechannel = 'ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
 global.namechannel2 = 'ALYA OFICIAL CHANNEL'
 global.namegrupo = 'ALYAS OFC'
 global.namecomu = '❖ƬʜᴇᬁAlya Oficial Comunity𒈞꧂♰'
@@ -40,7 +40,7 @@ global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => '
 
 //Ids channel
 global.canalIdM = ["120363407799526075@newsletter", "120363374826926142@newsletter"]
-global.canalNombreM = ["ALYA OFICIAL CHANNEL", "MɎSŦƗȻ ȻŁᵾɃ"]
+global.canalNombreM = ["ALYA OFICIAL CHANNEL", "ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★"]
 global.channelRD = await getRandomChannel()
 
 //fechas
