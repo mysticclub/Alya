@@ -32,7 +32,7 @@ let owner = `
 > ✦ Lista de usuarios y chats baneados.
 ᰔᩚ *#banuser ° #ban*
 > ✦ Banear a un usuario.
-ᰔᩚ *#unbanuser*
+ᰔᩚ *#unbanuser ° #pardon*
 > ✦ Desbanear a un usuario.
 ᰔᩚ *#dsowner • #delai*
 > ✦ Elimina archivos innecesarios de sesión.
