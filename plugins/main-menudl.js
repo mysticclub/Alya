@@ -20,11 +20,7 @@ Aquí tienes la lista de comandos
 │✰ Usuarios » ${totalreg}
 │✧ Comandos » ${totalCommands}
 │🜸 Baileys » Multi Device
-╰─────────────────
-Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
-
-• :･ﾟ⊹˚• \`『 Menú Download 』\` •˚⊹:･ﾟ•
-
+╰───────────
 ❍ Comandos de descargas para varios archivos.
 ᰔᩚ *#tiktok • #tt*
 > ✦ Descarga videos de TikTok.
@@ -65,8 +61,8 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᰔᩚ *#npmdl • #npmdownloader*
 > ✦ Descarga paquetes de NPMJs.
 ᰔᩚ *#animelinks • #animedl*
-> ✦ Descarga Links disponibles de descargas. '
-
+> ✦ Descarga Links disponibles de descargas.
+`.trim();
 
   await conn.sendMessage(m.chat, { 
       text: txt,
@@ -94,7 +90,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
 handler.help = ['menu'];
 handler.tags = ['main'];
-handler.command = ['menudl', 'menudownload', 'menudescargas'];
+handler.command = ['menu', 'menú', 'help'];
 
 export default handler;
 
