@@ -15,7 +15,7 @@ let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
 ❒ *Colaboradores:*
 
 ᰔᩚ Angel
-> 🜸 Rol » *Developer*
+> 🜸 Rol » *Mod*
 > ✧ wa.me/50368471855
 
 ᰔᩚ Niño Piña
@@ -27,12 +27,12 @@ let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
 > ✧ Wa.me/50240447765
 
 ᰔᩚ Alter knight 
-> 🜸 Rol » *mod*
+> 🜸 Rol » *Mod*
 > ✧ Wa.me/50765554540
 
-ᰔᩚ 
-> 🜸 Rol » 
-> ✧ 
+ᰔᩚ Martin 
+> 🜸 Rol » *Mod*
+> ✧ (número privado)
 `
 await conn.sendFile(m.chat, img, 'yuki.jpg', staff.trim(), fkontak)
 }
